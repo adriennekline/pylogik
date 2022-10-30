@@ -99,6 +99,8 @@ im_analysis.imshowpair(pred, true, color1 = (124,252,0), color2 = (255,0,252), s
 *  `color2` - second color to show unique values from second image
 * Returns: array and graphical plot
 
+![dice_demo](https://github.com/adriennekline/pylogik/blob/main/demo/dice_demo.jpg)
+
 ---
 
 # Conclusion
