@@ -104,4 +104,4 @@ im_analysis.imshowpair(pred, true, color1 = (124,252,0), color2 = (255,0,252), s
 ---
 
 # Conclusion
-This package offers a user friendly dice score calculation and dice score plotting functionality to showcase the intersection and complement of each image relative to the other. This package will be continually built on to incorporate other statistical and image processin functionality 
+This package offers a user friendly dice score calculation and dice score plotting functionality to showcase the intersection and complement of each image relative to the other. This package will be continually built on to incorporate other statistical and image processing functionality 
